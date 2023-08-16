@@ -1,0 +1,4 @@
+Django==4.2.4
+djangorestframework==3.14.0
+djangorestframework_simplejwt==5.2.2
+stripe==5.5.0
